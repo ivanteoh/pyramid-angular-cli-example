@@ -1,2 +1,2 @@
-# pyramid-angular-cli-example
-Example application that uses Pyramid framework and Angular project using cli.
+# Pyramid Angular
+Example application that uses [Pyramid](https://trypyramid.com/) framework as backend and [Angular](https://angular.io/) project using cli as frontend
