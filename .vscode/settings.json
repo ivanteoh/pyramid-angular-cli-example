@@ -1,0 +1,7 @@
+{
+    "python.unitTest.pyTestArgs": [
+        "backend/tests.py",
+        "-q"
+    ],
+    "python.unitTest.pyTestEnabled": true
+}
