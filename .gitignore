@@ -168,6 +168,7 @@ typings/
 /dist
 /tmp
 /out-tsc
+/backend/basic
 
 # dependencies
 /node_modules

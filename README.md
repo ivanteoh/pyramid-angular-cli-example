@@ -48,3 +48,37 @@ $ ng test
 ## Notes
 
 [Angular](https://angular.io/)
+
+# Backend
+
+## Activate virtual environment, for example
+
+```
+$ source ../venv/bin/activate
+```
+
+## Install
+
+```
+$ pip install -e .
+```
+
+## Run
+
+```
+$ pserve development.ini --reload
+```
+
+## Inspect
+
+* Open http://localhost:6543/
+
+## Test
+
+```
+$ py.test backend/tests.py -q
+```
+
+## Notes
+
+[Pyramid](https://trypyramid.com/)
